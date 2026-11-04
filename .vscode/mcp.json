@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "encore-local": {
+            "args": [
+                "mcp",
+                "run",
+                "--app=tkmanager-p7ci"
+            ],
+            "command": "encore"
+        }
+    }
+}
